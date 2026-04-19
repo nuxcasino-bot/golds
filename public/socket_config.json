@@ -1,0 +1,13 @@
+{
+
+"port":"12053/slots",
+
+"host":"goldsvet-script.test",
+"prefix":"https://",
+
+"host_ws":"goldsvet-script.test",
+"prefix_ws":"wss://",
+
+"ssl":true
+
+}
